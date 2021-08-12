@@ -19,7 +19,7 @@ M101JS-MONGODB-CERT-BLOG uses a number of open source projects:
 
 ### Todos
 
-Course Retired. So far I've had a bit more mongo exp than I would like. No diss, Mongo trully does work. Horizontal >
+Course Retired. So far I've had a bit more mongo exp than I would like. No diss, Mongo is trully great.
 
   [EXPRESS]: https://expressjs.comoverview
   [MONGODB]: https://www.mongodb.com
